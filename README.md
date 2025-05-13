@@ -1,2 +1,12 @@
-# age-calculator
-📅 A simple Python-based age calculator that takes a user's date of birth and calculates their exact age in years, months, and days. Built using the datetime module.
+# 📅 Python Age Calculator
+
+Simple console-based age calculator using Python's `datetime` module.
+
+## ✅ Features
+- Takes user's birth date
+- Calculates exact age in years, months, and days
+
+## ▶️ How to Run
+
+```bash
+python age_calculator.py
