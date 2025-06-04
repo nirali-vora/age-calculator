@@ -24,7 +24,7 @@ python age_calculator.py
 
 🗓️ Enter your birth date when prompted.
 
-🧪 Sample Output
+🧪 Sample Output 
 
 Enter your birth date (DD/MM/YYYY): 15/08/2000  
 You are 24 years, 9 months, and 1 day old.
