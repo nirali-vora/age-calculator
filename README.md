@@ -21,5 +21,3 @@ Powered by Python’s built-in datetime module for accurate results.
 
 ▶️ Run the script with:
 python age_calculator.py
-
-🗓️ Enter your birth date when prompted.
